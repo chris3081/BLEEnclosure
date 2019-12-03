@@ -1,0 +1,4 @@
+apt install libglib2.0-dev libbluetooth-dev libboost-python-dev libboost-thread-dev
+
+
+pip install pybluez[ble]
